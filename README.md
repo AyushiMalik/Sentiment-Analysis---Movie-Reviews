@@ -10,7 +10,9 @@ The dataset used for this project is a collection of movie reviews. It includes 
 - `Sentiment`: The sentiment label (positive or negative).
   
 The steps included in the Project are::
+
 1.) Importing required Libraries.
+
 2.) Text Normalization/ Removing HTML code and Extra noise.
 3.) Removing Special Characters and stemming.
 4.) Removing stopwords.
