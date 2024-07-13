@@ -28,4 +28,4 @@ The steps included in the Project are::
 8.) Performed Logistic and Naive Bayes machine learning models.
 
 Conclusion::
-This project demonstrates how to perform sentiment analysis on movie reviews using machine learning techniques. The results show that Logistic Regression and Naive Bayes can effectively classify reviews as positive or negative based on their text content.
+This project demonstrates how to perform sentiment analysis on movie reviews using machine learning techniques. The results show that Logistic Regression can effectively classify reviews as positive or negative based on their text content. The code includes the Logistic Regression and Naive Bayes Model's precision, recall, f1-score, and accuracy for better analysis and comparison.
