@@ -14,9 +14,15 @@ The steps included in the Project are::
 1.) Importing required Libraries.
 
 2.) Text Normalization/ Removing HTML code and Extra noise.
+
 3.) Removing Special Characters and stemming.
+
 4.) Removing stopwords.
+
 5.) Bags of words ( convert texts to numerical bags).
+
 6.) Converting text documents to matrix TFIDF.
+
 7.) Labeling and Splitting the sentiment data.
+
 8.) Performed Logistic and Naive Bayes.
