@@ -5,7 +5,7 @@ Project Overview::
 Sentiment analysis is a natural language processing (NLP) technique used to determine the sentiment expressed in text. In this project, we analyze movie reviews to predict whether they are positive or negative.
 
 About the Dataset::
-The dataset used for this project is a collection of movie reviews. It includes two columns:
+The dataset used for this project is a collection of movie reviews (50,000) records. It includes two columns:
 - `Review`: The text of the movie review.
 - `Sentiment`: The sentiment label (positive or negative).
   
