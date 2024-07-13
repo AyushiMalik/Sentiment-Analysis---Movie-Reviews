@@ -25,4 +25,4 @@ The steps included in the Project are::
 
 7.) Labeling and Splitting the sentiment data.
 
-8.) Performed Logistic and Naive Bayes.
+8.) Performed Logistic and Naive Bayes machine learning models.
